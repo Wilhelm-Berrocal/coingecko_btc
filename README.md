@@ -7,4 +7,4 @@ The orchestrations is done with mage, we need to decompress the btc_mage_tar.gz 
 
 $ docker run -it -p 6789:6789 -v $(pwd):/home/src mageai/mageai /app/run_app.sh mage start coingecko_btc
 
-in the working folder in order to see the pipeline
+in the working folder in order to see the pipeline, a live demonstration will be done.
