@@ -12,3 +12,7 @@ in the working folder in order to start the orchestrator, after that we can go t
 http://localhost:6789/pipelines/coingecko_btc/edit?sideview=tree
 
 in our browser to see the tree of the pipeline, anyways a live demonstration will be done.
+
+We can see an online version of the pipeline using the mage ai live tool, our conigecko pipeline is here:
+
+https://demo.mage.ai/pipelines/coingecko_btc/edit?sideview=tree
