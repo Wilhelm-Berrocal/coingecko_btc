@@ -1,0 +1,8 @@
+2023-06-22 18:43:23,988::DEBUG::urllib3.connectionpool::connectionpool.py::1014::Starting new HTTPS connection (1): api.coingecko.com:443
+2023-06-22 18:43:27,912::DEBUG::urllib3.connectionpool::connectionpool.py::473::https://api.coingecko.com:443 "GET /api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1641016800&to=1648706400&precision=2 HTTP/1.1" 200 None
+2023-06-22 18:43:27,979::INFO::root::1996053506.py::32::get_coin_price : PASS
+2023-06-22 18:43:28,004::INFO::root::3155291524.py::16::coin_price_formatter processed 90 records
+2023-06-22 19:06:19,147::DEBUG::urllib3.connectionpool::connectionpool.py::1014::Starting new HTTPS connection (1): api.coingecko.com:443
+2023-06-22 19:06:19,770::DEBUG::urllib3.connectionpool::connectionpool.py::473::https://api.coingecko.com:443 "GET /api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1641016800&to=1648706400&precision=2 HTTP/1.1" 200 None
+2023-06-22 19:06:19,874::INFO::root::1996053506.py::32::get_coin_price : PASS
+2023-06-22 19:06:21,536::INFO::root::3155291524.py::16::coin_price_formatter processed 90 records

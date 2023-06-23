@@ -1,0 +1,6 @@
+2023-06-22 18:43:49,587::DEBUG::urllib3.connectionpool::connectionpool.py::1014::Starting new HTTPS connection (1): api.coingecko.com:443
+2023-06-22 18:43:49,854::DEBUG::urllib3.connectionpool::connectionpool.py::473::https://api.coingecko.com:443 "GET /api/v3/coins/list HTTP/1.1" 200 None
+2023-06-22 18:43:50,021::INFO::root::2402719591.py::22::List of coins : PASS
+2023-06-22 19:05:37,359::DEBUG::urllib3.connectionpool::connectionpool.py::1014::Starting new HTTPS connection (1): api.coingecko.com:443
+2023-06-22 19:05:37,654::DEBUG::urllib3.connectionpool::connectionpool.py::473::https://api.coingecko.com:443 "GET /api/v3/coins/list HTTP/1.1" 200 None
+2023-06-22 19:05:37,810::INFO::root::2402719591.py::22::List of coins : PASS
