@@ -15,4 +15,8 @@ in our browser to see the tree of the pipeline, anyways a live demonstration wil
 
 We can see an online version of the pipeline using the mage ai live tool, our conigecko pipeline is here:
 
-https://demo.mage.ai/pipelines/coingecko_btc/edit?sideview=tree
+no longer active: https://demo.mage.ai/pipelines/coingecko_btc/edit?sideview=tree
+
+Last one was erased, I just added this new one
+
+https://demo.mage.ai/pipelines/crimson_sun/edit?sideview=tree
